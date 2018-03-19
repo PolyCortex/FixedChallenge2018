@@ -1,0 +1,4 @@
+pyqt5
+numpy
+pyqtgraph
+Adafruit_ADS1x15
